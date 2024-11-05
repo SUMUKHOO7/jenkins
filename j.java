@@ -1,4 +1,4 @@
-public class sumukh
+public class Sumukh
 {
  public static void main(String args[])
 {
